@@ -26,44 +26,23 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Mastered Languages & Frameworks
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Front-End & UI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <br />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/Zustand-443e38?style=flat-square" alt="Zustand" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Back-End & Deployment</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <br />
-        <img src="https://img.shields.io/badge/IndexedDB-4169E1?style=flat-square" alt="IndexedDB" />
-        <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square" alt="REST API" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Tooling & Environment</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-        <br />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/Linux-SCC?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### Languages & Core Web
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks & Ecosystem
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443e38?style=for-the-badge)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+</div>
 
 ---
 
@@ -114,11 +93,11 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
 
 ---
 
-## 📊 Contribution Activity & Metrics
+## 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/58a6ff/Pyronixus" alt="Pyronixus Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pyronixus&theme=react-dark&bg_color=0d1117&color=00c853&line=00c853&point=00c853&area=true&hide_border=true" alt="Pyronixus Activity Graph" width="100%" />
 
 <br /><br />
 
