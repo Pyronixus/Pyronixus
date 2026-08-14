@@ -1,15 +1,16 @@
 <div align="center">
 
-# ⚡ Pyronixus
+<img src="https://github.com/Pyronixus.png" alt="Pyronixus" width="120" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
-### Full-Stack & Front-End Software Developer
+# Pyronixus
 
-*Crafting modern, performant, and intuitive web applications with a focus on UI/UX excellence.*
+### Software Engineer • Full-Stack Web Architect
+
+*Crafting modern, performant, and intuitive digital experiences with a focus on engineering excellence.*
 
 ---
 
-[![GitHub Followers](https://img.shields.io/github/followers/Pyronixus?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github)](https://github.com/Pyronixus)
-![Profile Views](https://komarev.com/ghpvc/?username=Pyronixus&color=238636&style=for-the-badge&label=VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Pyronixus&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -17,15 +18,15 @@
 
 ## 🚀 Overview
 
-Specialized in modern front-end architectures and progressive web solutions. I design and build highly responsive, scalable, and aesthetically refined digital experiences using modern JavaScript frameworks and edge deployments.
+Engineering highly responsive, scalable, and aesthetically refined web applications. Specialized in modern front-end architectures, component-driven development, and Progressive Web Solutions.
 
-- 🎨 **Focus:** High-performance Web Applications, Glassmorphism & Liquid Glass UI, PWAs.
+- 🎨 **Focus:** High-performance Web Applications, UI/UX Excellence, and Progressive Web Apps (PWA).
 - ⚙️ **Core Stack:** React, Vite, Modern CSS/HTML, Node.js, and Cloudflare Workers.
-- 📐 **Engineering Principles:** Clean Code, Component Architecture, Modular Design, and Accessibility.
+- 📐 **Principles:** Clean Code, Modular Design, Scalability, and Accessibility.
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## 🛠️ Technology Stack
 
 <table align="center" width="100%">
   <tr>
@@ -66,65 +67,57 @@ Specialized in modern front-end architectures and progressive web solutions. I d
 
 ---
 
-## 📌 Featured Repositories & Projects
+## 📌 Featured Work
 
-<table>
-  <thead>
-    <tr>
-      <th width="30%">Project</th>
-      <th width="45%">Description</th>
-      <th width="25%">Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b><a href="https://github.com/Pyronixus/ScanMind-PWA">ScanMind PWA</a></b></td>
-      <td>Progressive Web App built for scanning, organizing, and studying flashcards with integrated OCR text recognition.</td>
-      <td><code>React</code> <code>Vite</code> <code>Tesseract.js</code> <code>IndexedDB</code></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/Pyronixus/H2O48">H2O48</a></b></td>
-      <td>A fluid, water-themed variant of 2048 featuring custom game modes, web audio synthesis, and glassmorphism UI.</td>
-      <td><code>React</code> <code>Vite</code> <code>Web Audio API</code></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/Pyronixus/ParaText">ParaText</a></b></td>
-      <td>Open-source text manipulation and parallax animation tool published under MIT License.</td>
-      <td><code>JavaScript</code> <code>CSS3</code> <code>HTML5</code></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/Pyronixus/Noteo">Noteo</a></b></td>
-      <td>Client-side dashboard for tracking, calculating, and managing weighted metrics with zero data retention.</td>
-      <td><code>JavaScript</code> <code>localStorage</code> <code>CSS3</code></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/Pyronixus/GigaGrammaire">GigaGrammaire</a></b></td>
-      <td>Interactive evaluation tool for testing grammatical structure and natural language processing concepts.</td>
-      <td><code>JavaScript</code> <code>JSON</code> <code>CSS3</code></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://sr-serenite.com">SR-Sérénité</a></b></td>
-      <td>Production-ready, highly optimized corporate website designed and deployed on edge infrastructure.</td>
-      <td><code>Cloudflare Workers</code> <code>HTML5/CSS3</code></td>
-    </tr>
-  </tbody>
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
+      <h3><a href="https://github.com/Pyronixus/ScanMind-PWA">ScanMind PWA</a></h3>
+      <p>Progressive Web App for digitizing, organizing, and studying flashcards with integrated OCR text recognition.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Tesseract.js-00d1b2?style=flat-square" alt="Tesseract.js" />
+        <img src="https://img.shields.io/badge/IndexedDB-4169E1?style=flat-square" alt="IndexedDB" />
+      </p>
+    </td>
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
+      <h3><a href="https://github.com/Pyronixus/H2O48">H2O48</a></h3>
+      <p>A fluid, water-themed variant of the 2048 game featuring custom game modes, web audio synthesis, and modern UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Web_Audio_API-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
+      <h3><a href="https://github.com/Pyronixus/ParaText">ParaText</a></h3>
+      <p>Open-source JavaScript tool for flexible, custom text manipulation and parallax scroll animations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      </p>
+    </td>
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
+      <h3><a href="https://sr-serenite.com">SR-Sérénité</a></h3>
+      <p>Production corporate website designed for optimal performance, accessibility, and deployed on edge infrastructure.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+        <img src="https://img.shields.io/badge/HTML5/CSS3-1572B6?style=flat-square" alt="HTML5/CSS3" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📊 Analytics & Activity
+## 📊 Performance & Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pyronixus&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyronixus&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-
-**[GitHub Profile](https://github.com/Pyronixus)** • **[Explore Repositories](https://github.com/Pyronixus?tab=repositories)**
 
 </div>
