@@ -67,22 +67,22 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
 
 ---
 
-## 📌 Major Public Projects
+## 📌 Featured Public Projects
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
-      <h3><a href="https://github.com/Pyronixus/ScanMind-PWA">ScanMind PWA</a></h3>
-      <p>Progressive Web Application for scanning, organizing, and reviewing study flashcards using client-side OCR recognition.</p>
+      <h3><a href="https://github.com/Pyronixus/Noteo">Noteo</a></h3>
+      <p>Client-side dashboard designed for calculating, tracking, and managing weighted metrics with zero data retention.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Tesseract.js-00d1b2?style=flat-square" alt="Tesseract.js" />
-        <img src="https://img.shields.io/badge/IndexedDB-4169E1?style=flat-square" alt="IndexedDB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/localStorage-4169E1?style=flat-square" alt="localStorage" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
     </td>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
       <h3><a href="https://github.com/Pyronixus/H2O48">H2O48</a></h3>
-      <p>Interactive web-based game featuring custom mechanics, web audio synthesis, and modern glassmorphic interface.</p>
+      <p>Interactive web-based game featuring fluid mechanics, web audio synthesis, and a modern glassmorphic UI.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Web_Audio_API-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -92,21 +92,21 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
   </tr>
   <tr>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
+      <h3><a href="https://github.com/Pyronixus/GigaGrammaire">GigaGrammaire</a></h3>
+      <p>Interactive evaluation web tool designed for testing grammatical structures and natural language concepts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </p>
+    </td>
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
       <h3><a href="https://github.com/Pyronixus/ParaText">ParaText</a></h3>
-      <p>Open-source JavaScript tool designed for flexible text manipulation and interactive parallax scroll rendering.</p>
+      <p>Open-source JavaScript library designed for flexible text manipulation and interactive parallax rendering.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      </p>
-    </td>
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
-      <h3><a href="https://github.com/Pyronixus/Noteo">Noteo</a></h3>
-      <p>Client-side dashboard for calculating, tracking, and managing weighted academic metrics locally.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/localStorage-4169E1?style=flat-square" alt="localStorage" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
     </td>
   </tr>
@@ -117,6 +117,10 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
 ## 📊 Contribution Activity & Metrics
 
 <div align="center">
+
+<img src="https://ghchart.rshah.org/58a6ff/Pyronixus" alt="Pyronixus Contribution Graph" width="100%" />
+
+<br /><br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pyronixus&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideTitle=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="80%" />
 
