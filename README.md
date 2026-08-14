@@ -6,6 +6,8 @@
 
 ### Software Engineer • Full-Stack Web Architect
 
+🌐 **[Portfolio](https://pyrodevportfolio.vercel.app)**
+
 *Crafting modern, performant, and intuitive digital experiences with a focus on engineering excellence.*
 
 ---
@@ -21,23 +23,25 @@
 Engineering highly responsive, scalable, and aesthetically refined web applications. Specialized in modern front-end architectures, component-driven development, and Progressive Web Solutions.
 
 - 🎨 **Focus:** High-performance Web Applications, UI/UX Excellence, and Progressive Web Apps (PWA).
-- ⚙️ **Core Stack:** React, Vite, Tailwind CSS, JavaScript, and Cloudflare Workers.
+- ⚙️ **Core Stack:** React, JavaScript, HTML5, CSS3, Vite, and Cloudflare Workers.
 - 📐 **Principles:** Clean Code, Modular Design, Scalability, and Accessibility.
 
 ---
 
-## 🛠️ Automatically Updated Languages & Frameworks
+## 🛠️ Mastered Languages & Frameworks
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyronixus&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="60%" />
-
-<br /><br />
-
+### Languages & Core Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks & Ecosystem
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443e38?style=for-the-badge)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
@@ -56,8 +60,9 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
         <a href="https://github.com/Pyronixus/Noteo/commits/main"><img src="https://img.shields.io/github/last-commit/Pyronixus/Noteo?style=flat-square&color=238636&labelColor=161b22" alt="Last Commit" /></a>
         <br /><br />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/localStorage-4169E1?style=flat-square" alt="localStorage" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/localStorage-4169E1?style=flat-square" alt="localStorage" />
       </p>
     </td>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
@@ -67,23 +72,25 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
         <a href="https://github.com/Pyronixus/H2O48"><img src="https://img.shields.io/github/stars/Pyronixus/H2O48?style=flat-square&color=58a6ff&labelColor=161b22" alt="Stars" /></a>
         <a href="https://github.com/Pyronixus/H2O48/commits/main"><img src="https://img.shields.io/github/last-commit/Pyronixus/H2O48?style=flat-square&color=238636&labelColor=161b22" alt="Last Commit" /></a>
         <br /><br />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Web_Audio_API-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Web_Audio_API-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Web Audio API" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
       <h3><a href="https://github.com/Pyronixus/GigaGrammaire">GigaGrammaire</a></h3>
-      <p>Interactive evaluation web platform designed for practicing word functions and French grammatical structures.</p>
+      <p>Interactive evaluation web tool designed for testing grammatical structures and natural language concepts.</p>
       <p>
         <a href="https://github.com/Pyronixus/GigaGrammaire"><img src="https://img.shields.io/github/stars/Pyronixus/GigaGrammaire?style=flat-square&color=58a6ff&labelColor=161b22" alt="Stars" /></a>
         <a href="https://github.com/Pyronixus/GigaGrammaire/commits/main"><img src="https://img.shields.io/github/last-commit/Pyronixus/GigaGrammaire?style=flat-square&color=238636&labelColor=161b22" alt="Last Commit" /></a>
         <br /><br />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
     </td>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
@@ -94,8 +101,8 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
         <a href="https://github.com/Pyronixus/ParaText/commits/main"><img src="https://img.shields.io/github/last-commit/Pyronixus/ParaText?style=flat-square&color=238636&labelColor=161b22" alt="Last Commit" /></a>
         <br /><br />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
     </td>
   </tr>
@@ -103,11 +110,11 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
 
 ---
 
-## 📊 Automated Contribution Activity Grid
+## 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pyronixus/Pyronixus/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pyronixus&theme=react-dark&bg_color=0d1117&color=00c853&line=00c853&point=00c853&area=true&hide_border=true" alt="Pyronixus Activity Graph" width="100%" />
 
 <br /><br />
 
