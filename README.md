@@ -21,7 +21,7 @@
 Engineering highly responsive, scalable, and aesthetically refined web applications. Specialized in modern front-end architectures, component-driven development, and Progressive Web Solutions.
 
 - 🎨 **Focus:** High-performance Web Applications, UI/UX Excellence, and Progressive Web Apps (PWA).
-- ⚙️ **Core Stack:** React, Vite, Modern CSS/HTML, Node.js, and Cloudflare Workers.
+- ⚙️ **Core Stack:** React, Vite, Modern CSS/HTML, JavaScript, and Cloudflare Workers.
 - 📐 **Principles:** Clean Code, Modular Design, Scalability, and Accessibility.
 
 ---
@@ -67,13 +67,13 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
 
 ---
 
-## 📌 Featured Work
+## 📌 Major Public Projects
 
-<table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
+<table align="center" width="100%">
   <tr>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
       <h3><a href="https://github.com/Pyronixus/ScanMind-PWA">ScanMind PWA</a></h3>
-      <p>Progressive Web App for digitizing, organizing, and studying flashcards with integrated OCR text recognition.</p>
+      <p>Progressive Web Application for scanning, organizing, and reviewing study flashcards using client-side OCR recognition.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Tesseract.js-00d1b2?style=flat-square" alt="Tesseract.js" />
@@ -82,7 +82,7 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
     </td>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
       <h3><a href="https://github.com/Pyronixus/H2O48">H2O48</a></h3>
-      <p>A fluid, water-themed variant of the 2048 game featuring custom game modes, web audio synthesis, and modern UI.</p>
+      <p>Interactive web-based game featuring custom mechanics, web audio synthesis, and modern glassmorphic interface.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Web_Audio_API-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -93,7 +93,7 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
   <tr>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
       <h3><a href="https://github.com/Pyronixus/ParaText">ParaText</a></h3>
-      <p>Open-source JavaScript tool for flexible, custom text manipulation and parallax scroll animations.</p>
+      <p>Open-source JavaScript tool designed for flexible text manipulation and interactive parallax scroll rendering.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -101,11 +101,12 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
       </p>
     </td>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
-      <h3><a href="https://sr-serenite.com">SR-Sérénité</a></h3>
-      <p>Production corporate website designed for optimal performance, accessibility, and deployed on edge infrastructure.</p>
+      <h3><a href="https://github.com/Pyronixus/Noteo">Noteo</a></h3>
+      <p>Client-side dashboard for calculating, tracking, and managing weighted academic metrics locally.</p>
       <p>
-        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
-        <img src="https://img.shields.io/badge/HTML5/CSS3-1572B6?style=flat-square" alt="HTML5/CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/localStorage-4169E1?style=flat-square" alt="localStorage" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
     </td>
   </tr>
@@ -113,11 +114,10 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
 
 ---
 
-## 📊 Performance & Analytics
+## 📊 Contribution Activity & Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pyronixus&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyronixus&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pyronixus&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideTitle=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="80%" />
 
 </div>
