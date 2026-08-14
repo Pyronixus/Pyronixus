@@ -1,92 +1,130 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Mattys ! *(aka Pyronixus)*
+# ⚡ Pyronixus
 
-### 🚀 Développeur Web Passionné & Créateur de Projets Interactifs
+### Full-Stack & Front-End Software Developer
 
-*Bienvenue sur mon profil GitHub ! Je conçois des applications web modernes, fluides et accessibles.*
-
-![Visiteurs](https://komarev.com/ghpvc/?username=Pyronixus&color=00d2ff&style=for-the-badge)
-[![GitHub Followers](https://img.shields.io/github/followers/Pyronixus?style=for-the-badge&color=7289da)](https://github.com/Pyronixus)
+*Crafting modern, performant, and intuitive web applications with a focus on UI/UX excellence.*
 
 ---
+
+[![GitHub Followers](https://img.shields.io/github/followers/Pyronixus?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github)](https://github.com/Pyronixus)
+![Profile Views](https://komarev.com/ghpvc/?username=Pyronixus&color=238636&style=for-the-badge&label=VIEWS)
 
 </div>
 
-## 💡 À propos de moi
+<br />
 
-Passionné par le développement web **front-end** et **full-stack**, j'adore transformer des idées en applications concrètes, réactives et visuellement soignées.
+## 🚀 Overview
 
-- 🎓 **Aujourd'hui :** Lycéen en 2nde (Section Européenne & Sciences de l'Ingénieur), orienté vers les métiers du web.
-- ⚡ **Ce qui me motive :** L'ergonomie utilisateur, le Design *Glassmorphism / Liquid Glass*, les Progressive Web Apps (PWA) et la performance.
-- 🛠 **En ce moment :** Je développe des outils web pratiques, des jeux interactifs et des applications d'apprentissage.
+Specialized in modern front-end architectures and progressive web solutions. I design and build highly responsive, scalable, and aesthetically refined digital experiences using modern JavaScript frameworks and edge deployments.
+
+- 🎨 **Focus:** High-performance Web Applications, Glassmorphism & Liquid Glass UI, PWAs.
+- ⚙️ **Core Stack:** React, Vite, Modern CSS/HTML, Node.js, and Cloudflare Workers.
+- 📐 **Engineering Principles:** Clean Code, Component Architecture, Modular Design, and Accessibility.
 
 ---
 
-## 🛠️ Stack Technique & Outils
+## 🛠️ Tech Stack & Tooling
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Front-End & UI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <br />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Zustand-443e38?style=flat-square" alt="Zustand" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Back-End & Deployment</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <br />
+        <img src="https://img.shields.io/badge/IndexedDB-4169E1?style=flat-square" alt="IndexedDB" />
+        <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square" alt="REST API" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Tooling & Environment</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <br />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Linux-SCC?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📌 Featured Repositories & Projects
+
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Project</th>
+      <th width="45%">Description</th>
+      <th width="25%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/Pyronixus/ScanMind-PWA">ScanMind PWA</a></b></td>
+      <td>Progressive Web App built for scanning, organizing, and studying flashcards with integrated OCR text recognition.</td>
+      <td><code>React</code> <code>Vite</code> <code>Tesseract.js</code> <code>IndexedDB</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Pyronixus/H2O48">H2O48</a></b></td>
+      <td>A fluid, water-themed variant of 2048 featuring custom game modes, web audio synthesis, and glassmorphism UI.</td>
+      <td><code>React</code> <code>Vite</code> <code>Web Audio API</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Pyronixus/ParaText">ParaText</a></b></td>
+      <td>Open-source text manipulation and parallax animation tool published under MIT License.</td>
+      <td><code>JavaScript</code> <code>CSS3</code> <code>HTML5</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Pyronixus/Noteo">Noteo</a></b></td>
+      <td>Client-side dashboard for tracking, calculating, and managing weighted metrics with zero data retention.</td>
+      <td><code>JavaScript</code> <code>localStorage</code> <code>CSS3</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Pyronixus/GigaGrammaire">GigaGrammaire</a></b></td>
+      <td>Interactive evaluation tool for testing grammatical structure and natural language processing concepts.</td>
+      <td><code>JavaScript</code> <code>JSON</code> <code>CSS3</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://sr-serenite.com">SR-Sérénité</a></b></td>
+      <td>Production-ready, highly optimized corporate website designed and deployed on edge infrastructure.</td>
+      <td><code>Cloudflare Workers</code> <code>HTML5/CSS3</code></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 📊 Analytics & Activity
 
 <div align="center">
 
-### Frontend & Web Tech
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443e38?style=for-the-badge)
-
-### Backend & Cloud
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![IndexedDB](https://img.shields.io/badge/IndexedDB-4169E1?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Outils & Environnement
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=Pyronixus&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyronixus&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
 
 </div>
 
 ---
 
-## ⭐ Projets Vedettes
-
-| Projet | Description | Technologies |
-| :--- | :--- | :--- |
-| 🧠 **[ScanMind-PWA](https://github.com/Pyronixus)** | Application PWA de numérisation et révision de cartes mémoire avec OCR. | `React` `Vite` `Tesseract.js` `IndexedDB` |
-| 🌊 **[H2O48](https://github.com/Pyronixus/H2O48)** | Variante aquatique du jeu 2048 avec modes Zen/Négatif et effets sonores. | `React` `Vite` `Web Audio API` |
-| ✨ **[ParaText](https://github.com/Pyronixus)** | Outil d'animation textuelle parallaxe personnalisé (Open Source MIT). | `JavaScript` `CSS3` `HTML5` |
-| 📊 **[Noteo](https://github.com/Pyronixus)** | Suivi de moyennes scolaires pondérées et gestion de notes locales. | `JavaScript` `localStorage` |
-| 📚 **[GigaGrammaire](https://github.com/Pyronixus)** | Application d'entraînement et révision de grammaire française. | `JSON` `JavaScript` `CSS` |
-| 🌿 **[SR-Sérénité](https://sr-serenite.com)** | Site vitrine de sophrologie et réflexologie déployé sur le Cloud. | `Cloudflare Workers` `HTML/CSS` |
-
----
-
-## 🎯 En dehors du code
-
-Quand je ne suis pas sur VS Code, tu me trouveras probablement en train de :
-- 🧩 Faire du **Speedcubing** (3x3 CFOP avec DaYan GuHong Pro+ M).
-- 🎮 Jouer à **Minecraft** (modding Java, shaders & construction) ou **Fall Guys**.
-- 📖 Préparer des e-books et dictionnaires personnalisés pour **Kindle**.
-- 🎨 Explorer la modélisation 3D sous **Blender**.
-
----
-
-## 📊 Statistiques GitHub
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pyronixus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub de Pyronixus" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyronixus&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-
-🤝 **Une question, une idée de projet ou juste envie de discuter dev ?**  
-N'hésite pas à explorer mes dépôts et à laisser une petite ⭐ si un projet te plaît !
+**[GitHub Profile](https://github.com/Pyronixus)** • **[Explore Repositories](https://github.com/Pyronixus?tab=repositories)**
 
 </div>
