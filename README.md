@@ -32,7 +32,7 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
 
 <p align="center">
   <strong>Languages & Core Web</strong><br />
-  <img src="https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /><img src="https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript%20ES6%2B-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript ES6+" /><img src="https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-1e293b?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1e293b?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" /><img src="https://img.shields.io/badge/Tailwind-1e293b?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
