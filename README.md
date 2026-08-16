@@ -104,10 +104,14 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pyronixus&theme=react-dark&bg_color=0d1117&color=00c853&line=00c853&point=00c853&area=true&hide_border=true" alt="Pyronixus Activity Graph" width="100%" />
+  <a href="https://github.com/Pyronixus">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pyronixus&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" width="100%" alt="Pyronixus Activity Graph" />
+  </a>
 
-<br /><br />
+  <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pyronixus&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideTitle=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="80%" />
+  <a href="https://github.com/Pyronixus">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pyronixus&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideTitle=58A6FF&currStreakLabel=58A6FF" width="80%" alt="GitHub Streak" />
+  </a>
 
 </div>
