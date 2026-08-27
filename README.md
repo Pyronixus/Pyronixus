@@ -104,9 +104,11 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
 
 <div align="center">
 
-  <a href="https://github.com/Pyronixus">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pyronixus&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" width="100%" alt="Pyronixus Activity Graph" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pyronixus/Pyronixus/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pyronixus/Pyronixus/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Eating Contributions Animation" src="https://raw.githubusercontent.com/Pyronixus/Pyronixus/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 
   <br /><br />
 
