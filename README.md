@@ -46,6 +46,7 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
   <img src="https://img.shields.io/badge/Vite-1e293b?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
   <img src="https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /><img src="https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Cloudflare-1e293b?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/Render-1e293b?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
 ---
@@ -55,14 +56,13 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
 <table align="center" width="100%">
   <tr>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
-      <h3><a href="https://github.com/Pyronixus/ScanMind-PWA">ScanMind PWA</a></h3>
-      <p>Progressive Web App for scanning, organizing, and studying flashcards with client-side OCR and offline storage.</p>
+      <h3><a href="https://github.com/Pyronixus/PronoteXP-api">PronoteXP-api</a></h3>
+      <p>High-performance Python & FastAPI REST backend designed for parsing, processing, and exporting PRONOTE academic data into structured JSON.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Vite-1e293b?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
-        <img src="https://img.shields.io/badge/Tesseract-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Tesseract.js" />
-        <img src="https://img.shields.io/badge/Dexie-1e293b?style=for-the-badge&logo=indexeddb&logoColor=white" alt="Dexie.js" />
-        <img src="https://img.shields.io/badge/PWA-1e293b?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="PWA" />
+        <img src="https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-1e293b?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Pydantic-1e293b?style=for-the-badge&logo=pydantic&logoColor=E92063" alt="Pydantic" />
+        <img src="https://img.shields.io/badge/Render-1e293b?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
       </p>
     </td>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
