@@ -1,12 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  # Exécution automatique toutes les 12 heures (optimisé pour que le graphe soit toujours à jour)
   schedule:
     - cron: "0 */12 * * *"
-  # Permet de lancer l'action manuellement depuis l'onglet Actions
   workflow_dispatch:
-  # S'exécute à chaque push sur la branche principale pour mettre à jour instantanément
   push:
     branches:
       - main
@@ -17,14 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     permissions:
-      contents: write # Autorisation stricte requise pour pousser le SVG généré
+      contents: write
 
     steps:
-      # Étape 1 : Récupérer le dépôt
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Étape 2 : Générer l'animation SVG avec des couleurs personnalisées
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -35,7 +30,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Étape 3 : Pousser les fichiers générés vers la branche "output"
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
