@@ -1,4 +1,4 @@
-name: Generate Streak Stats
+name: Generate Profile Metrics
 
 on:
   schedule:
@@ -10,7 +10,7 @@ on:
       - master
 
 jobs:
-  generate-streak:
+  generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     permissions:
@@ -20,23 +20,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Streak Stats SVG
-        uses: DenverCoder1/github-readme-streak-stats@v2
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          user: Pyronixus
-          output-path: dist/streak-stats-dark.svg
-          theme: dark
-          background: "0D1117"
-          border: "30363D"
-          stroke: "58A6FF"
-          ring: "58A6FF"
-          fire: "58A6FF"
-          currStreakNum: "C9D1D9"
-          sideNums: "C9D1D9"
-          sideTitle: "58A6FF"
-          currStreakLabel: "58A6FF"
-          hide_border: "true"
-          short_numbers: "true"
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#58a6ff
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download Streak Stats SVG
+        run: |
+          curl -s "https://github-readme-streak-stats-eight.vercel.app?user=Pyronixus&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideTitle=58A6FF&currStreakLabel=58A6FF&hide_border=true&short_numbers=true" -o dist/streak-stats-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
