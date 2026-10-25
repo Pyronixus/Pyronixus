@@ -1,0 +1,47 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate-streak:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats SVG
+        uses: DenverCoder1/github-readme-streak-stats@v2
+        with:
+          user: Pyronixus
+          output-path: dist/streak-stats-dark.svg
+          theme: dark
+          background: "0D1117"
+          border: "30363D"
+          stroke: "58A6FF"
+          ring: "58A6FF"
+          fire: "58A6FF"
+          currStreakNum: "C9D1D9"
+          sideNums: "C9D1D9"
+          sideTitle: "58A6FF"
+          currStreakLabel: "58A6FF"
+          hide_border: "true"
+          short_numbers: "true"
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
