@@ -56,13 +56,12 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
 <table align="center" width="100%">
   <tr>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
-      <h3><a href="https://github.com/Pyronixus/PronoteXP-api">PronoteXP-api</a></h3>
-      <p>High-performance Python & FastAPI REST backend designed for parsing, processing, and exporting PRONOTE academic data into structured JSON.</p>
+      <h3><a href="https://github.com/Pyronixus/PronoteXP">PronoteXP</a></h3>
+      <p>A simple tool to export and locally back up your PRONOTE data, with a FastAPI backend and a lightweight web interface.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
         <img src="https://img.shields.io/badge/FastAPI-1e293b?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Pydantic-1e293b?style=for-the-badge&logo=pydantic&logoColor=E92063" alt="Pydantic" />
-        <img src="https://img.shields.io/badge/Render-1e293b?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+        <img src="https://img.shields.io/badge/HTML-1e293b?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
+        <img src="https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />   
       </p>
     </td>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
@@ -87,12 +86,12 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
       </p>
     </td>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #161b22;">
-      <h3><a href="https://github.com/Pyronixus/ParaText">ParaText</a></h3>
-      <p>Open-source JavaScript library designed for flexible text manipulation and interactive parallax rendering.</p>
+      <h3><a href="https://github.com/Pyronixus/mandelbrot-js">mandelbrot-js</a></h3>
+      <p>Mandelbrot explorer in Typescript and WebGL2 with infinite zoom and 20+ palettes (high optimization).</p>
       <p>
-        <img src="https://img.shields.io/badge/JS_Module-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS Module" />
-        <img src="https://img.shields.io/badge/Observer-1e293b?style=for-the-badge&logo=javascript&logoColor=339933" alt="Observer" />
-        <img src="https://img.shields.io/badge/Canvas-1e293b?style=for-the-badge&logo=html5&logoColor=E34F26" alt="Canvas" />
+        <img src="https://img.shields.io/badge/TypeScript-1e293b?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Adaptative-1e293b?style=for-the-badge&logo=speedtest&logoColor=38BDF8" alt="Adaptative" />
+        <img src="https://img.shields.io/badge/Optimizations-1e293b?style=for-the-badge&logo=rocket&logoColor=F97316" alt="Optimizations" />
       </p>
     </td>
   </tr>
