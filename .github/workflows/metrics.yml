@@ -33,10 +33,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Download Streak Stats SVG
+      - name: Download GitHub Stats SVG
         run: |
-          curl -s "https://github-readme-streak-stats-eight.vercel.app?user=Pyronixus&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideTitle=58A6FF&currStreakLabel=58A6FF&hide_border=true&short_numbers=true&cache_seconds=0" -o dist/streak-stats-dark.svg
-
+          curl -s "https://github-readme-stats.vercel.app/api?username=Pyronixus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" -o dist/streak-stats-dark.svg
+          
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
