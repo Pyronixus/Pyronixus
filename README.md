@@ -111,8 +111,8 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
 
   <br /><br />
 
- <p align="center">
-  <img src="https://raw.githubusercontent.com/Pyronixus/Pyronixus/output/github-metrics.svg" width="80%" alt="GitHub Metrics" />
-</p>
+ <a href="https://github.com/Pyronixus">
+  <img src="https://raw.githubusercontent.com/Pyronixus/Pyronixus/output/streak-stats-dark.svg" width="80%" alt="GitHub Stats" />
+</a>
 
 </div>
