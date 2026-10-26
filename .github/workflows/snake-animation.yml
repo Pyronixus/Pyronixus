@@ -1,4 +1,4 @@
-name: Generate Profile Metrics
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -32,17 +32,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#58a6ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Pyronixus
-
-      - name: Move 3D graph to dist
-        run: |
-          mkdir -p dist/profile-3d
-          cp profile-3d-contrib/profile-night-view.svg dist/profile-3d.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
