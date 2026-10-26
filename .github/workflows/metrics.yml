@@ -33,10 +33,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Download GitHub Stats SVG
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Pyronixus
+
+      - name: Move 3D graph to dist
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=Pyronixus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" -o dist/streak-stats-dark.svg
-          
+          mkdir -p dist/profile-3d
+          cp profile-3d-contrib/profile-night-view.svg dist/profile-3d.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
