@@ -112,7 +112,7 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
   <br /><br />
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/Pyronixus/Pyronixus/output/profile-3d.svg" width="100%" alt="3D Commit Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyronixus&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact" width="50%" alt="Most Used Languages" />
 </p>
 
 </div>
