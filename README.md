@@ -112,7 +112,7 @@ Engineering highly responsive, scalable, and aesthetically refined web applicati
   <br /><br />
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyronixus&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact" width="50%" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pyronixus&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact" width="50%" alt="Most Used Languages" />
 </p>
 
 </div>
